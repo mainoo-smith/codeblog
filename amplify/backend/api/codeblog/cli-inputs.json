@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "codeblog",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\maino\\react-apps\\codeblog\\amplify\\backend\\api\\codeblog\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 21,
+      "apiKeyExpirationDate": "2022-04-30T18:59:40.831Z",
+      "keyDescription": "codeblog api"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}
